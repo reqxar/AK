@@ -1,0 +1,771 @@
+2021-03-18 12:31:21,721 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:31:21,731 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:31:21,743 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:31:21,755 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:31:21,766 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:31:21,778 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:31:21,789 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:31:21,802 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:31:21,813 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:31:21,825 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:31:21,836 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:31:21,849 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:31:21,859 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:31:21,869 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:31:21,879 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:31:21,888 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:31:21,897 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:31:21,907 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:31:21,916 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:31:21,922 INFO <module>(83) <Process(Process-1, stopped[1] daemon)>
+2021-03-18 12:31:21,926 INFO <module>(85) Transfer completed.
+2021-03-18 12:31:21,926 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:31:21,927 INFO <module>(83) <Process(Process-2, stopped[1] daemon)>
+2021-03-18 12:31:21,925 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:31:21,927 INFO <module>(85) Transfer completed.
+2021-03-18 12:31:21,927 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:31:21,927 INFO <module>(83) <Process(Process-3, stopped[1] daemon)>
+2021-03-18 12:31:21,928 INFO <module>(85) Transfer completed.
+2021-03-18 12:31:21,928 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:31:21,928 INFO <module>(83) <Process(Process-4, stopped[1] daemon)>
+2021-03-18 12:31:21,928 INFO <module>(85) Transfer completed.
+2021-03-18 12:31:21,928 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:31:21,929 INFO <module>(83) <Process(Process-5, stopped[1] daemon)>
+2021-03-18 12:31:21,929 INFO <module>(85) Transfer completed.
+2021-03-18 12:31:21,929 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:31:21,929 INFO <module>(83) <Process(Process-6, stopped[1] daemon)>
+2021-03-18 12:31:21,929 INFO <module>(85) Transfer completed.
+2021-03-18 12:31:21,929 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:31:21,930 INFO <module>(83) <Process(Process-7, stopped[1] daemon)>
+2021-03-18 12:31:21,930 INFO <module>(85) Transfer completed.
+2021-03-18 12:31:21,930 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:31:21,930 INFO <module>(83) <Process(Process-8, stopped[1] daemon)>
+2021-03-18 12:31:21,930 INFO <module>(85) Transfer completed.
+2021-03-18 12:31:21,930 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:31:21,931 INFO <module>(83) <Process(Process-9, stopped[1] daemon)>
+2021-03-18 12:31:21,931 INFO <module>(85) Transfer completed.
+2021-03-18 12:31:21,931 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:31:21,931 INFO <module>(83) <Process(Process-10, stopped[1] daemon)>
+2021-03-18 12:31:21,931 INFO <module>(85) Transfer completed.
+2021-03-18 12:31:21,932 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:31:21,932 INFO <module>(83) <Process(Process-11, stopped[1] daemon)>
+2021-03-18 12:31:21,932 INFO <module>(85) Transfer completed.
+2021-03-18 12:31:21,932 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:31:21,932 INFO <module>(83) <Process(Process-12, stopped[1] daemon)>
+2021-03-18 12:31:21,932 INFO <module>(85) Transfer completed.
+2021-03-18 12:31:21,932 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:31:21,933 INFO <module>(83) <Process(Process-13, stopped[1] daemon)>
+2021-03-18 12:31:21,933 INFO <module>(85) Transfer completed.
+2021-03-18 12:31:21,933 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:31:21,933 INFO <module>(83) <Process(Process-14, stopped[1] daemon)>
+2021-03-18 12:31:21,934 INFO <module>(85) Transfer completed.
+2021-03-18 12:31:21,934 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:31:21,935 INFO <module>(83) <Process(Process-15, stopped[1] daemon)>
+2021-03-18 12:31:21,935 INFO <module>(85) Transfer completed.
+2021-03-18 12:31:21,935 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:31:21,935 INFO <module>(83) <Process(Process-16, stopped[1] daemon)>
+2021-03-18 12:31:21,935 INFO <module>(85) Transfer completed.
+2021-03-18 12:31:21,935 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:31:21,936 INFO <module>(83) <Process(Process-17, stopped[1] daemon)>
+2021-03-18 12:31:21,936 INFO <module>(85) Transfer completed.
+2021-03-18 12:31:21,936 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:31:21,936 INFO <module>(83) <Process(Process-18, stopped[1] daemon)>
+2021-03-18 12:31:21,936 INFO <module>(85) Transfer completed.
+2021-03-18 12:31:21,937 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:31:21,937 INFO <module>(83) <Process(Process-19, stopped[1] daemon)>
+2021-03-18 12:31:21,937 INFO <module>(85) Transfer completed.
+2021-03-18 12:31:21,937 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:31:21,939 INFO <module>(83) <Process(Process-20, stopped[1] daemon)>
+2021-03-18 12:31:21,939 INFO <module>(85) Transfer completed.
+2021-03-18 12:31:21,939 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:36:42,812 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:36:42,822 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:36:42,833 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:36:42,842 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:36:42,851 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:36:42,861 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:36:42,871 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:36:42,882 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:36:42,891 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:36:42,900 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:36:42,912 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:36:42,922 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:36:42,932 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:36:42,943 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:36:42,952 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:36:42,962 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:36:42,972 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:36:42,982 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:36:42,992 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:36:43,006 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:47:04,549 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:47:04,568 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:47:04,572 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:47:04,582 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:47:04,594 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:47:04,601 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:47:04,613 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:47:04,620 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:47:04,630 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:47:04,640 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:47:04,651 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:47:04,665 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:47:04,679 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:47:04,691 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:47:04,703 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:47:04,715 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:47:04,732 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:47:04,749 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:47:04,762 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:47:04,778 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:50:05,805 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:50:05,815 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:50:05,826 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:50:05,844 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:50:05,861 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:50:05,880 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:50:05,899 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:50:05,909 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:50:05,920 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:50:05,935 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:50:05,952 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:50:05,970 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:50:05,989 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:50:06,009 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:50:06,026 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:50:06,047 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:50:06,069 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:50:06,080 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:50:06,089 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:50:06,100 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:32,927 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:32,940 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:32,955 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:32,969 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:33,001 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:32,986 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:33,018 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:33,035 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:33,052 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:33,070 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:33,086 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:33,105 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:33,123 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:33,140 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:33,161 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:33,178 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:33,202 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:33,214 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:33,234 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:33,243 INFO <module>(83) <Process(Process-1, stopped[1] daemon)>
+2021-03-18 12:56:33,251 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:33,251 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:33,252 INFO <module>(83) <Process(Process-2, stopped[1] daemon)>
+2021-03-18 12:56:33,252 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:33,253 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:33,253 INFO <module>(83) <Process(Process-3, stopped[1] daemon)>
+2021-03-18 12:56:33,254 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:33,251 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:33,254 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:33,254 INFO <module>(83) <Process(Process-4, stopped[1] daemon)>
+2021-03-18 12:56:33,255 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:33,255 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:33,256 INFO <module>(83) <Process(Process-5, stopped[1] daemon)>
+2021-03-18 12:56:33,256 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:33,256 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:33,257 INFO <module>(83) <Process(Process-6, stopped[1] daemon)>
+2021-03-18 12:56:33,257 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:33,257 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:33,258 INFO <module>(83) <Process(Process-7, stopped[1] daemon)>
+2021-03-18 12:56:33,259 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:33,259 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:33,260 INFO <module>(83) <Process(Process-8, stopped[1] daemon)>
+2021-03-18 12:56:33,260 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:33,260 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:33,260 INFO <module>(83) <Process(Process-9, stopped[1] daemon)>
+2021-03-18 12:56:33,261 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:33,261 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:33,261 INFO <module>(83) <Process(Process-10, stopped[1] daemon)>
+2021-03-18 12:56:33,262 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:33,262 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:33,263 INFO <module>(83) <Process(Process-11, stopped[1] daemon)>
+2021-03-18 12:56:33,263 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:33,264 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:33,264 INFO <module>(83) <Process(Process-12, stopped[1] daemon)>
+2021-03-18 12:56:33,265 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:33,265 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:33,265 INFO <module>(83) <Process(Process-13, stopped[1] daemon)>
+2021-03-18 12:56:33,265 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:33,266 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:33,266 INFO <module>(83) <Process(Process-14, stopped[1] daemon)>
+2021-03-18 12:56:33,266 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:33,267 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:33,267 INFO <module>(83) <Process(Process-15, stopped[1] daemon)>
+2021-03-18 12:56:33,267 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:33,268 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:33,268 INFO <module>(83) <Process(Process-16, stopped[1] daemon)>
+2021-03-18 12:56:33,268 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:33,268 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:33,269 INFO <module>(83) <Process(Process-17, stopped[1] daemon)>
+2021-03-18 12:56:33,269 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:33,269 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:33,270 INFO <module>(83) <Process(Process-18, stopped[1] daemon)>
+2021-03-18 12:56:33,270 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:33,270 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:33,271 INFO <module>(83) <Process(Process-19, stopped[1] daemon)>
+2021-03-18 12:56:33,271 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:33,272 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:33,275 INFO <module>(83) <Process(Process-20, stopped[1] daemon)>
+2021-03-18 12:56:33,275 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:33,275 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:42,138 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:42,148 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:42,157 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:42,168 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:42,179 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:42,189 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:42,198 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:42,208 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:42,218 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:42,228 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:42,239 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:42,247 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:42,258 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:42,269 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:42,279 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:42,293 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:42,304 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:42,321 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:42,337 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:42,351 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:56:51,086 INFO <module>(83) <Process(Process-1, stopped[1] daemon)>
+2021-03-18 12:56:51,092 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:51,093 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:51,093 INFO <module>(83) <Process(Process-2, stopped[1] daemon)>
+2021-03-18 12:56:51,093 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:51,094 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:51,094 INFO <module>(83) <Process(Process-3, stopped[1] daemon)>
+2021-03-18 12:56:51,095 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:51,095 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:51,095 INFO <module>(83) <Process(Process-4, stopped[1] daemon)>
+2021-03-18 12:56:51,096 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:51,096 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:51,096 INFO <module>(83) <Process(Process-5, stopped[1] daemon)>
+2021-03-18 12:56:51,097 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:51,097 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:51,097 INFO <module>(83) <Process(Process-6, stopped[1] daemon)>
+2021-03-18 12:56:51,098 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:51,098 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:51,098 INFO <module>(83) <Process(Process-7, stopped[1] daemon)>
+2021-03-18 12:56:51,099 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:51,099 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:51,099 INFO <module>(83) <Process(Process-8, stopped[1] daemon)>
+2021-03-18 12:56:51,099 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:51,100 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:51,100 INFO <module>(83) <Process(Process-9, stopped[1] daemon)>
+2021-03-18 12:56:51,100 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:51,101 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:51,101 INFO <module>(83) <Process(Process-10, stopped[1] daemon)>
+2021-03-18 12:56:51,101 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:51,102 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:51,102 INFO <module>(83) <Process(Process-11, stopped[1] daemon)>
+2021-03-18 12:56:51,102 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:51,103 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:51,103 INFO <module>(83) <Process(Process-12, stopped[1] daemon)>
+2021-03-18 12:56:51,104 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:51,104 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:51,104 INFO <module>(83) <Process(Process-13, stopped[1] daemon)>
+2021-03-18 12:56:51,105 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:51,105 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:51,105 INFO <module>(83) <Process(Process-14, stopped[1] daemon)>
+2021-03-18 12:56:51,105 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:51,106 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:51,106 INFO <module>(83) <Process(Process-15, stopped[1] daemon)>
+2021-03-18 12:56:51,106 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:51,107 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:51,107 INFO <module>(83) <Process(Process-16, stopped[1] daemon)>
+2021-03-18 12:56:51,107 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:51,108 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:51,108 INFO <module>(83) <Process(Process-17, stopped[1] daemon)>
+2021-03-18 12:56:51,108 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:51,108 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:51,109 INFO <module>(83) <Process(Process-18, stopped[1] daemon)>
+2021-03-18 12:56:51,109 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:51,109 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:51,110 INFO <module>(83) <Process(Process-19, stopped[1] daemon)>
+2021-03-18 12:56:51,110 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:51,110 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:56:51,111 INFO <module>(83) <Process(Process-20, stopped[1] daemon)>
+2021-03-18 12:56:51,111 INFO <module>(85) Transfer completed.
+2021-03-18 12:56:51,111 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-18 12:57:34,715 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:57:34,724 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:57:34,735 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:57:34,748 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:57:34,758 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:57:34,769 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:57:34,780 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:57:34,789 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:57:34,799 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:57:34,808 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:57:34,818 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:57:34,830 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:57:34,842 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:57:34,852 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:57:34,862 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:57:34,871 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:57:34,882 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:57:34,894 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:57:34,904 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-18 12:57:34,917 INFO main(35) Connecting to depot-elk3.labma.ru:5044
+2021-03-19 17:02:40,815 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:02:40,833 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:02:40,849 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:02:40,866 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:02:40,883 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:02:40,900 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:02:40,917 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:02:40,936 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:02:40,954 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:02:40,970 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:02:40,987 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:02:41,004 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:02:41,022 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:02:41,040 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:02:41,057 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:02:41,076 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:02:41,094 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:02:41,113 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:02:41,132 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:02:41,151 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:11:53,775 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:11:53,790 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:11:53,799 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:11:53,811 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:11:53,822 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:11:53,830 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:11:53,840 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:11:53,860 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:11:53,874 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:11:53,891 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:11:53,909 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:11:53,929 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:11:53,950 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:11:53,967 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:11:53,986 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:11:54,007 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:11:54,027 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:11:54,047 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:11:54,067 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:11:54,089 INFO main(35) Connecting to depot-elk21.labma.ru:5044
+2021-03-19 17:14:07,109 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:14:07,123 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:14:07,131 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:14:07,141 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:14:07,149 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:14:07,159 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:14:07,170 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:14:07,182 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:14:07,199 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:14:07,215 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:14:07,232 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:14:07,253 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:14:07,270 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:14:07,287 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:14:07,303 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:14:07,324 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:14:07,338 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:14:07,357 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:14:07,373 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:14:07,391 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:24:31,971 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:24:31,981 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:24:31,990 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:24:31,999 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:24:32,011 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:24:32,025 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:24:32,033 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:24:32,051 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:24:32,067 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:24:32,085 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:24:32,102 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:24:32,119 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:24:32,136 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:24:32,153 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:24:32,170 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:24:32,192 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:24:32,207 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:24:32,223 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:24:32,232 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:24:32,244 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:30:51,171 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:30:51,190 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:30:51,206 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:30:51,227 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:30:51,242 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:30:51,259 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:30:51,277 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:30:51,294 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:30:51,312 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:30:51,329 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:30:51,348 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:30:51,364 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:30:51,384 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:30:51,401 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:30:51,420 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:30:51,436 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:30:51,454 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:30:51,471 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:30:51,489 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:30:51,499 INFO <module>(83) <Process(Process-1, stopped[1] daemon)>
+2021-03-19 17:30:51,505 INFO <module>(85) Transfer completed.
+2021-03-19 17:30:51,505 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-19 17:30:51,506 INFO <module>(83) <Process(Process-2, stopped[1] daemon)>
+2021-03-19 17:30:51,506 INFO <module>(85) Transfer completed.
+2021-03-19 17:30:51,505 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:30:51,506 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-19 17:30:51,506 INFO <module>(83) <Process(Process-3, stopped[1] daemon)>
+2021-03-19 17:30:51,507 INFO <module>(85) Transfer completed.
+2021-03-19 17:30:51,507 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-19 17:30:51,507 INFO <module>(83) <Process(Process-4, stopped[1] daemon)>
+2021-03-19 17:30:51,507 INFO <module>(85) Transfer completed.
+2021-03-19 17:30:51,507 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-19 17:30:51,507 INFO <module>(83) <Process(Process-5, stopped[1] daemon)>
+2021-03-19 17:30:51,509 INFO <module>(85) Transfer completed.
+2021-03-19 17:30:51,509 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-19 17:30:51,509 INFO <module>(83) <Process(Process-6, stopped[1] daemon)>
+2021-03-19 17:30:51,509 INFO <module>(85) Transfer completed.
+2021-03-19 17:30:51,509 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-19 17:30:51,509 INFO <module>(83) <Process(Process-7, stopped[1] daemon)>
+2021-03-19 17:30:51,510 INFO <module>(85) Transfer completed.
+2021-03-19 17:30:51,510 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-19 17:30:51,510 INFO <module>(83) <Process(Process-8, stopped[1] daemon)>
+2021-03-19 17:30:51,510 INFO <module>(85) Transfer completed.
+2021-03-19 17:30:51,510 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-19 17:30:51,510 INFO <module>(83) <Process(Process-9, stopped[1] daemon)>
+2021-03-19 17:30:51,511 INFO <module>(85) Transfer completed.
+2021-03-19 17:30:51,511 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-19 17:30:51,511 INFO <module>(83) <Process(Process-10, stopped[1] daemon)>
+2021-03-19 17:30:51,511 INFO <module>(85) Transfer completed.
+2021-03-19 17:30:51,511 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-19 17:30:51,511 INFO <module>(83) <Process(Process-11, stopped[1] daemon)>
+2021-03-19 17:30:51,512 INFO <module>(85) Transfer completed.
+2021-03-19 17:30:51,512 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-19 17:30:51,512 INFO <module>(83) <Process(Process-12, stopped[1] daemon)>
+2021-03-19 17:30:51,512 INFO <module>(85) Transfer completed.
+2021-03-19 17:30:51,512 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-19 17:30:51,512 INFO <module>(83) <Process(Process-13, stopped[1] daemon)>
+2021-03-19 17:30:51,512 INFO <module>(85) Transfer completed.
+2021-03-19 17:30:51,513 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-19 17:30:51,513 INFO <module>(83) <Process(Process-14, stopped[1] daemon)>
+2021-03-19 17:30:51,513 INFO <module>(85) Transfer completed.
+2021-03-19 17:30:51,513 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-19 17:30:51,513 INFO <module>(83) <Process(Process-15, stopped[1] daemon)>
+2021-03-19 17:30:51,513 INFO <module>(85) Transfer completed.
+2021-03-19 17:30:51,514 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-19 17:30:51,514 INFO <module>(83) <Process(Process-16, stopped[1] daemon)>
+2021-03-19 17:30:51,514 INFO <module>(85) Transfer completed.
+2021-03-19 17:30:51,514 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-19 17:30:51,514 INFO <module>(83) <Process(Process-17, stopped[1] daemon)>
+2021-03-19 17:30:51,514 INFO <module>(85) Transfer completed.
+2021-03-19 17:30:51,515 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-19 17:30:51,515 INFO <module>(83) <Process(Process-18, stopped[1] daemon)>
+2021-03-19 17:30:51,515 INFO <module>(85) Transfer completed.
+2021-03-19 17:30:51,515 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-19 17:30:51,515 INFO <module>(83) <Process(Process-19, stopped[1] daemon)>
+2021-03-19 17:30:51,516 INFO <module>(85) Transfer completed.
+2021-03-19 17:30:51,516 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-19 17:30:51,518 INFO <module>(83) <Process(Process-20, stopped[1] daemon)>
+2021-03-19 17:30:51,518 INFO <module>(85) Transfer completed.
+2021-03-19 17:30:51,518 INFO <module>(86) Master process and its daemons has been terminated.
+2021-03-19 17:33:09,038 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:33:09,048 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:33:09,057 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:33:09,066 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:33:09,075 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:33:09,085 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:33:09,094 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:33:09,104 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:33:09,113 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:33:09,122 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:33:09,131 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:33:09,141 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:33:09,150 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:33:09,160 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:33:09,169 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:33:09,179 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:33:09,188 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:33:09,200 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:33:09,220 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 17:33:09,239 INFO main(35) Connecting to depot-elk27.labma.ru:5044
+2021-03-19 18:01:42,288 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:01:42,298 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:01:42,307 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:01:42,316 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:01:42,326 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:01:42,335 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:01:42,344 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:01:42,357 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:01:42,374 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:01:42,392 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:01:42,409 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:01:42,426 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:01:42,443 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:01:42,459 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:01:42,476 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:01:42,493 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:01:42,511 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:01:42,528 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:01:42,547 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:01:42,565 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:02:58,509 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:02:58,519 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:02:58,537 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:02:58,559 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:02:58,577 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:02:58,596 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:02:58,610 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:02:58,625 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:02:58,643 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:02:58,661 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:02:58,679 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:02:58,697 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:02:58,720 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:02:58,739 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:02:58,762 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:02:58,780 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:02:58,802 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:02:58,824 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:02:58,844 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:02:58,869 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:04,380 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:04,394 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:04,413 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:04,427 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:04,446 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:04,465 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:04,488 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:04,508 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:04,528 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:04,542 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:04,561 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:04,583 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:04,609 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:04,633 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:04,640 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:04,663 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:04,684 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:04,702 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:04,725 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:04,746 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:04,770 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:04,797 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:04,816 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:04,840 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:04,863 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:04,879 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:04,903 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:04,933 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:04,950 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:04,963 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:04,973 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:04,988 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,010 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,016 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,038 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,051 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,065 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,083 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,097 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,117 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,138 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,154 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,181 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,193 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,212 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,235 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,253 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,282 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,298 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,317 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,341 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,365 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,385 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,408 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,431 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,454 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,490 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,499 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,522 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,550 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,559 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,585 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,596 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,608 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,625 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,633 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,649 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,657 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,669 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,687 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,701 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,721 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,730 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,746 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,762 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,771 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,786 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,800 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,818 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,830 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,846 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,863 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,883 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,898 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,917 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,933 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,955 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,970 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:05,990 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:06,015 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:06,040 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:06,062 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:06,080 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:06,100 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:06,122 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:06,151 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:06,169 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:06,194 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:06,218 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:11:06,239 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,268 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,278 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,288 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,296 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,305 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,321 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,334 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,350 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,363 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,372 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,384 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,392 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,406 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,417 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,430 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,443 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,456 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,469 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,482 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,494 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,507 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,520 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,535 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,547 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,559 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,569 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,583 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,589 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,598 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,608 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,618 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,627 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,637 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,647 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,656 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,666 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,676 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,688 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,711 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,732 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,754 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,776 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,787 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,806 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,824 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,843 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,860 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,880 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,898 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,918 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,936 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,956 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,972 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:17,992 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,011 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,030 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,049 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,070 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,088 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,111 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,133 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,156 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,184 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,206 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,225 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,249 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,271 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,294 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,313 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,334 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,357 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,383 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,403 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,419 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,435 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,445 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,456 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,467 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,478 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,492 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,507 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,523 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,536 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,548 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,563 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,578 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,593 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,606 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,623 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,638 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,658 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,674 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,693 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,713 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,732 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,753 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,774 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,796 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,818 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 18:58:18,838 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 19:41:06,284 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 19:41:06,302 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 19:41:06,320 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 19:41:06,336 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 19:41:06,353 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 19:41:06,373 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 19:41:06,391 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 19:41:06,408 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 19:41:06,434 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 19:41:06,443 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 19:53:14,311 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 20:01:04,825 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 20:01:04,842 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 20:01:04,859 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 20:01:04,870 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 20:01:04,880 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 20:01:04,890 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 20:01:04,900 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 20:01:04,909 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 20:01:04,921 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 20:01:04,933 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 21:58:34,484 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 21:58:34,495 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 21:58:34,505 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 21:58:34,514 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 21:58:34,524 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 21:58:34,538 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 21:58:34,549 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 21:58:34,566 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 21:58:34,587 INFO main(35) Connecting to depot-elk.labma.ru:5044
+2021-03-19 21:58:34,615 INFO main(35) Connecting to depot-elk.labma.ru:5044
